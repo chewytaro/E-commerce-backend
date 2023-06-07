@@ -14,7 +14,7 @@ const categoryData = [
     category_name: 'Music Books',
   },
   {
-    category_name: 'Sci-Fi Books',
+    category_name: 'Sci-Fi',
   },
 ];
 
